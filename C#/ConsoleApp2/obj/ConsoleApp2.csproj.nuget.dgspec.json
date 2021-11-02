@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programare C#\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "C:\\Users\\MarcoB\\Desktop\\C#\\Dotnet-Bulzan-Marco\\C#\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "D:\\Programare C#\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "C:\\Users\\MarcoB\\Desktop\\C#\\Dotnet-Bulzan-Marco\\C#\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programare C#\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\MarcoB\\Desktop\\C#\\Dotnet-Bulzan-Marco\\C#\\ConsoleApp2\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "D:\\Programare C#\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectPath": "C:\\Users\\MarcoB\\Desktop\\C#\\Dotnet-Bulzan-Marco\\C#\\ConsoleApp2\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\MarcoB\\.nuget\\packages\\",
-        "outputPath": "D:\\Programare C#\\ConsoleApp2\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\MarcoB\\Desktop\\C#\\Dotnet-Bulzan-Marco\\C#\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MarcoB\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,15 +6,11 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Program ceva = new Program();
-            ceva.Print();
-        }
-        void Print()
-        {
-            Console.WriteLine("Hello World!");// comentariu
-            Console.WriteLine("Best friend!");
-            Console.WriteLine("Hey!");
-        }
+            string x=Console.ReadLine();
+            Console.WriteLine($"Hello {x}!");
+            Console.WriteLine("yo");
+
+        }  
     }
 }
 // create the method
