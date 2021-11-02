@@ -6,8 +6,11 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            string y = "Marco";
-            Console.WriteLine(y + " is weird.");
+            int k = 2;//declaratie+initializare
+
+            int? y=null;
+            Console.WriteLine(y);
+
             
         }  
     }
