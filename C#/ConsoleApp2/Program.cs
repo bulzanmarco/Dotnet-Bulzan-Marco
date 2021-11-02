@@ -6,13 +6,9 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            string x=Console.ReadLine();
-            Console.WriteLine($"Hello {x}!");
-            Console.WriteLine("yo");
-
+            string y = "Marco";
+            Console.WriteLine(y + " is weird.");
+            
         }  
     }
 }
-// create the method
-//invoke the method
-//namespace->class->members->method->statements
